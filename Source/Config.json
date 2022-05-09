@@ -1,0 +1,18 @@
+{
+	"CaptureImage_Brightness": "-15",
+	"CaptureImage_Gamma": "0",
+	"CaptureImage_Contrast": "20",
+	"Python_Path": "python",
+	"OBSWebSocket_SourceName": "SourceNameHere",
+	"CaptureImage_Vivid": true,
+	"OBSWebSocket_Port": "4420",
+	"OBSWebSocket_Password": "Password",
+	"CaptureImage_Grayscale": true,
+	"OBSWebSocket_SceneName": "SceneNameHere",
+	"CapturePos": [
+		176,956,154,41
+	],
+	"ListOfWordToDetect": [
+		"Milkeyyy","nmG.Rel1c"
+	]
+}

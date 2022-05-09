@@ -1,0 +1,18 @@
+{
+	"CaptureImage_Brightness": "-15",
+	"CaptureImage_Gamma": "0",
+	"CaptureImage_Contrast": "20",
+	"Python_Path": "python",
+	"OBSWebSocket_SourceName": "Overlay",
+	"CaptureImage_Vivid": true,
+	"OBSWebSocket_Port": "4444",
+	"OBSWebSocket_Password": "5555",
+	"CaptureImage_Grayscale": true,
+	"OBSWebSocket_SceneName": "ApexOverlayTest",
+	"CapturePos": [
+		176,956,154,41
+	],
+	"ListOfWordToDetect": [
+		"Milkeyyy","nmG"
+	]
+}
