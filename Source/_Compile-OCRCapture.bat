@@ -2,4 +2,4 @@
 cd %~dp0
 echo コンパイルを開始
 echo.
-"C:\Users\Milkeyyy\AppData\Local\Programs\Produire\rdrc.exe" OCRCapture.rdrproj
+"C:\Users\Milkeyyy\AppData\Local\Programs\Produire\rdrc.exe" OCRScreenCaptureHelper.rdrproj

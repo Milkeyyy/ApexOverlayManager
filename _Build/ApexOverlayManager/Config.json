@@ -13,7 +13,7 @@
 		176,956,154,41
 	],
 	"Python_Path": "python",
-	"ShowConsoleWindow": true,
+	"ShowConsoleWindow": false,
 	"CaptureImage_Vivid": false,
 	"CaptureImage_Contrast": "25"
 }

@@ -51,7 +51,7 @@ obs.connect()
 print(f"Connect: {host}:{port}")
 
 while loopv == True:
-	ocr_r = subprocess.run([r"OCRCapture.exe"], shell=True, text=True, stdout=subprocess.PIPE)
+	ocr_r = subprocess.run([r"OCRScreenCaptureHelper.exe"], shell=True, text=True, stdout=subprocess.PIPE)
 	if ocr_r.stdout == "True":
 		print(f"オーバーレイ有効化 ({ocr_r.stdout})")
 		switch_overlay(True)
