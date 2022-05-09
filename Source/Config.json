@@ -1,18 +1,19 @@
 {
-	"CaptureImage_Brightness": "-15",
 	"CaptureImage_Gamma": "0",
-	"CaptureImage_Contrast": "20",
-	"Python_Path": "python",
+	"ListOfWordToDetect": [
+		"Milkeyyy","nmG"
+	],
+	"OBSWebSocket_Port": "4444",
 	"OBSWebSocket_SourceName": "SourceNameHere",
-	"CaptureImage_Vivid": true,
-	"OBSWebSocket_Port": "4420",
-	"OBSWebSocket_Password": "Password",
 	"CaptureImage_Grayscale": true,
 	"OBSWebSocket_SceneName": "SceneNameHere",
+	"CaptureImage_Brightness": "-15",
+	"OBSWebSocket_Password": "Password",
 	"CapturePos": [
 		176,956,154,41
 	],
-	"ListOfWordToDetect": [
-		"Milkeyyy","nmG.Rel1c"
-	]
+	"Python_Path": "python",
+	"ShowConsoleWindow": true,
+	"CaptureImage_Vivid": true,
+	"CaptureImage_Contrast": "20"
 }

@@ -7,7 +7,7 @@ import time
 from obswebsocket import obsws, requests
 
 name = "ApexOverlayManager"
-version = "0.0.2"
+version = "0.1.0"
 author = "Milkeyyy"
 
 print(f"{name} Version {version}\nCreated by {author}")

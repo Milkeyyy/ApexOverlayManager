@@ -1,14 +1,15 @@
 {
 	"Python_Path": "python",
+	"ShowConsoleWindow": false,
 	"ListOfWordToDetect": [
 		"Milkeyyy","nmG"
 	],
 	"CapturePos": [
 		176,956,154,41
 	],
-	"CaptureImage_Brightness": -15,
+	"CaptureImage_Brightness": -30,
 	"CaptureImage_Contrast": 20,
-	"CaptureImage_Gamma": 0,
+	"CaptureImage_Gamma": 1,
 	"CaptureImage_Grayscale": true,
 	"CaptureImage_Vivid": true,
 	"OBSWebSocket_Port": 4444,
