@@ -1,19 +1,19 @@
 {
-	"CaptureImage_Gamma": "0",
 	"ListOfWordToDetect": [
-		"Milkeyyy","nmG"
+		"Milkeyyy","Milkey","nmG","mG"
 	],
-	"OBSWebSocket_Port": "4444",
-	"OBSWebSocket_SourceName": "SourceNameHere",
 	"CaptureImage_Grayscale": true,
-	"OBSWebSocket_SceneName": "SceneNameHere",
+	"CaptureImage_Gamma": "0",
+	"CaptureImage_Contrast": "14",
+	"OBSWebSocket_Port": "4444",
+	"OBSWebSocket_SceneName": "ApexOverlayTest",
 	"CaptureImage_Brightness": "-15",
-	"OBSWebSocket_Password": "Password",
+	"CaptureImage_Vivid": false,
+	"OBSWebSocket_SourceName": "Overlay",
+	"Python_Path": "python",
+	"ShowConsoleWindow": false,
 	"CapturePos": [
 		176,956,154,41
 	],
-	"Python_Path": "python",
-	"ShowConsoleWindow": true,
-	"CaptureImage_Vivid": true,
-	"CaptureImage_Contrast": "20"
+	"OBSWebSocket_Password": "5555"
 }
