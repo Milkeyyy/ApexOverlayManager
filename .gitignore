@@ -1,3 +1,4 @@
 *.jpg
 _Compile.bat
 Config.json
+_Debug\*.exe

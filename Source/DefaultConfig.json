@@ -1,6 +1,9 @@
 {
-	"Python_Path": "python",
-	"ShowConsoleWindow": false,
+	"Window_Pos": [0,0],
+	"Window_Size": [748,716],
+	"Window_Display_Settings": true,
+	"Window_Display_Log": false,
+	"OBSStudio_Path": "",
 	"ListOfWordToDetect": [
 		"Milkeyyy","nmG"
 	],
