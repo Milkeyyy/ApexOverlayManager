@@ -3,6 +3,7 @@
 	"Window_Size": [748,716],
 	"Window_Display_Settings": true,
 	"OBSStudio_Path": "",
+	"OBSStudio_AutoStart": false,
 	"ListOfWordToDetect": [
 		"Milkeyyy","nmG"
 	],
