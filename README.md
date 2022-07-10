@@ -11,6 +11,9 @@ Apex Legendsの配信のオーバーレイが出たり消えたり
 - OBS Studio - `27.2.4`
 - obs-websocket - `4.9.1`
 
+## 言語
+- [**プロデル**](https://rdr.utopiat.net/)
+
 ---
 
 https://user-images.githubusercontent.com/59532514/173405571-aed895e1-b130-415d-96da-0afb8ce283a1.mp4
