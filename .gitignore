@@ -1,5 +1,5 @@
 *.jpg
 _Compile.bat
-_Compile_Update.bat
+_Compile_Updater.bat
 Config.json
 ApexOverlayManager.exe
