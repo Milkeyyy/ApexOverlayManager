@@ -1,5 +1,8 @@
 # ApexOverlayManager Changelog
 
+## Version 0.4.0
+- 自動アップデート機能を実装
+
 ## Version 0.3.1
 - OBSWebSocketプラグインのバージョンを変更(開発途中)
 - ソースのドロップダウンリストに種類の表記を追加

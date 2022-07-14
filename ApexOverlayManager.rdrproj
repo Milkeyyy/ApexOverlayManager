@@ -1,7 +1,7 @@
 <プロジェクト 名前="ApexOverlayManager" ビット32="○" 管理者実行="×" ライブラリ同梱="○">
   <一覧>
     <項目 位置="Source\Main.rdr" 開始="○" 開く="○" />
-    <項目 位置="Source\Updater.rdr" 開く="○" />
+    <項目 位置="Source\Updater.rdr" />
   </一覧>
   <バージョン 値="0.4.0.0">
     <項目 名前="FileDescription" 値="ApexOverlayManager GUI" />
