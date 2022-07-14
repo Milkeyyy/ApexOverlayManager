@@ -2,6 +2,7 @@
 //「Produire.WRT.Imaging.dll」を利用する
 「..\ApexOverlayManager.rdrproj」を素材として利用する
 「DefaultConfig.json」を素材として利用する
+「AOM_Updater.exe」を素材として利用する
 
 // プロジェクトファイルからアプリケーションの情報を取得
 	プロジェクトファイル=XMLで[素材リストから「ApexOverlayManager.rdrproj」を文字列として取得したもの]から作成したもの
@@ -12,12 +13,19 @@
 		バージョン=「[バージョン(1)].[バージョン(2)].[バージョン(3)]」
 		ビルド=「」
 		バージョン=バージョン&ビルド
+		インストールファイル一覧=「Newtonsoft.Json.dll,obs-websocket-dotnet.dll,Produire.WRT.Imaging.dll,websocket-sharp.dll」
 		//アプリの作者=要素の「」の「」の内容
 	繰り返し終わり
+	内部バージョン=1
+	
+もし「[今の位置]AOM_Updater.exe」というファイルが存在しないなら素材リストから「AOM_Updater.exe」を「[今の位置]Update\AOM_Updater.exe」へ保存する
 
 コンフィグチェックする
 
 メイン画面を表示する
+
+アップデーターでアップデートチェックする
+
 待機する
 
 コンフィグチェックする手順
