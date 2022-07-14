@@ -16,9 +16,11 @@
 		インストールファイル一覧=「Newtonsoft.Json.dll,obs-websocket-dotnet.dll,Produire.WRT.Imaging.dll,websocket-sharp.dll」
 		//アプリの作者=要素の「」の「」の内容
 	繰り返し終わり
-	内部バージョン=1
+	//内部バージョン=1
 	
 もし「[今の位置]AOM_Updater.exe」というファイルが存在しないなら素材リストから「AOM_Updater.exe」を「[今の位置]Update\AOM_Updater.exe」へ保存する
+
+もしプログラムの起動時設定が「{/UpdateCompleted}」なら「アップデートが完了しました (v[バージョン])」を「情報アイコン」で表示する
 
 コンフィグチェックする
 

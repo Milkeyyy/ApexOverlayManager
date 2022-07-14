@@ -32,7 +32,7 @@
 		「https://github.com/Milkeyyy/ApexOverlayManager/releases/download/[アップデートデータ(「name」)]/ApexOverlayManager_[アップデートデータ(「name」)].zip」を「[今の位置]Update\AOM_Update.zip」へHTTPでアップデート画面のプログレスバー1しながらダウンロードする
 		休憩する
 		0.5秒待つ
-		「[今の位置]Update\AOM_Updater.exe」を「"[今の位置]" "[インストールファイル一覧]"」として起動する
+		「[今の位置]Update\AOM_Updater.exe」を「[今の位置] [インストールファイル一覧]」として起動する
 		
 		
 		終了する
