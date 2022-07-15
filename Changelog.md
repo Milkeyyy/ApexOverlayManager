@@ -1,5 +1,8 @@
 # ApexOverlayManager Changelog
 
+## Version 0.4.1
+- 自動アップデート機能を改良
+
 ## Version 0.4.0
 - 自動アップデート機能を実装
 
