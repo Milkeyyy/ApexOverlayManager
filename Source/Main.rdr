@@ -16,6 +16,7 @@
 		インストールファイル一覧=「Newtonsoft.Json.dll,obs-websocket-dotnet.dll,Produire.WRT.Imaging.dll,websocket-sharp.dll」
 		//アプリの作者=要素の「」の「」の内容
 	繰り返し終わり
+	
 	//内部バージョン=1
 
 もし「[今の位置]Update」というフォルダが存在しないなら「[今の位置]」へ「Update」というフォルダを作成する
